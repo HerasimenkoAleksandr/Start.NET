@@ -1,0 +1,7 @@
+C:\Users\geras\source\repos\Start.NET\Start.NET\bin\Debug\Start.NET.exe.config
+C:\Users\geras\source\repos\Start.NET\Start.NET\bin\Debug\Start.NET.exe
+C:\Users\geras\source\repos\Start.NET\Start.NET\bin\Debug\Start.NET.pdb
+C:\Users\geras\source\repos\Start.NET\Start.NET\obj\Debug\Start.NET.csproj.AssemblyReference.cache
+C:\Users\geras\source\repos\Start.NET\Start.NET\obj\Debug\Start.NET.csproj.CoreCompileInputs.cache
+C:\Users\geras\source\repos\Start.NET\Start.NET\obj\Debug\Start.NET.exe
+C:\Users\geras\source\repos\Start.NET\Start.NET\obj\Debug\Start.NET.pdb
